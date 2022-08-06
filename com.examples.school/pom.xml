@@ -21,6 +21,8 @@
     <mongo.java.server.version>1.24.0</mongo.java.server.version>
     <testcontainers.version>1.15.1</testcontainers.version>
     <picocli.version>3.9.3</picocli.version>
+    <sonar.login>sqa_8a1aa4c341eec02cc251005f8898d35115f331da</sonar.login>
+    <sonar.url>http://15.206.117.228:9000</sonar.url>
 
     <!-- For each rule to be ignore, add another eXX and two corresponding 
       properties with eXX in the name as below -->
